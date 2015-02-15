@@ -6,7 +6,7 @@ License: [Attribution-ShareAlike 4.0 International](http://creativecommons.org/l
 
 
 ## Demo
-[View demo]()
+[View demo](http://karan1276.github.io/shadow/)
 
 ## Usage
 To use this on your website, simply include the latest jQuery library found [here](http://jquery.com), together with `shadow.js` into your document, follow by the html markup and a function call as follows:
